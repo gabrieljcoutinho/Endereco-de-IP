@@ -4,4 +4,4 @@
 
  - Classe B: **147.218(Rede).30.1(Host)** - 65534 possibildades de endereço(hosts)
 
-  - Classe V: **192.168.0.(Rede)1(Host)**
+  - Classe V: **192.168.0.(Rede)1(Host)** - 254 possibildades de endereço(hosts)
